@@ -1,0 +1,787 @@
+[2026-01-26 14:35:33,630:INFO:Welcome to CNN Classifier]
+[2026-01-27 12:47:42,811:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 12:47:42,827:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 12:50:03,785:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 12:50:03,789:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 12:50:03,791:INFO:created directory at: artifacts]
+[2026-01-27 12:50:03,792:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-27 12:50:03,794:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-27 13:23:14,357:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 13:23:14,360:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 13:23:14,361:INFO:created directory at: artifacts]
+[2026-01-27 13:23:14,363:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-27 13:23:14,364:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-27 13:26:18,962:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 13:26:18,965:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 13:26:18,967:INFO:created directory at: artifacts]
+[2026-01-27 13:26:18,969:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-27 13:26:18,971:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-27 14:19:42,919:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-27 14:25:32,922:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 14:25:32,937:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 14:25:32,938:INFO:created directory at: artifacts]
+[2026-01-27 14:25:32,940:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-27 14:26:10,597:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-27 14:42:34,330:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 14:42:34,334:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 14:42:34,337:INFO:created directory at: artifacts]
+[2026-01-27 14:42:34,339:INFO:created directory at: artifacts\training]
+[2026-01-27 14:50:10,056:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 14:50:10,061:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 14:50:10,062:INFO:created directory at: artifacts]
+[2026-01-27 14:50:10,064:INFO:created directory at: artifacts\training]
+[2026-01-27 14:56:07,659:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 14:56:07,662:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 14:56:07,664:INFO:created directory at: artifacts]
+[2026-01-27 14:56:07,667:INFO:created directory at: artifacts\training]
+[2026-01-27 14:56:50,928:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 14:56:50,933:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 14:56:50,936:INFO:created directory at: artifacts]
+[2026-01-27 14:56:50,938:INFO:created directory at: artifacts\training]
+[2026-01-27 15:09:44,891:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 15:09:44,895:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 15:09:44,896:INFO:created directory at: artifacts]
+[2026-01-27 15:09:44,898:INFO:created directory at: artifacts\training]
+[2026-01-27 15:59:39,073:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 15:59:39,093:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 15:59:39,095:INFO:created directory at: artifacts]
+[2026-01-27 15:59:39,097:INFO:created directory at: artifacts\training]
+[2026-01-27 20:30:38,778:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 20:30:38,801:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 20:30:38,816:INFO:created directory at: artifacts]
+[2026-01-27 20:30:38,819:INFO:created directory at: artifacts\training]
+[2026-01-27 20:32:51,154:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 20:32:51,160:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 20:32:51,162:INFO:created directory at: artifacts]
+[2026-01-27 20:32:51,164:INFO:created directory at: artifacts\training]
+[2026-01-27 20:33:19,016:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 20:33:19,018:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 20:33:19,020:INFO:created directory at: artifacts]
+[2026-01-27 20:33:19,022:INFO:created directory at: artifacts\training]
+[2026-01-27 21:45:48,196:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 21:45:48,201:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 21:45:48,203:INFO:created directory at: artifacts]
+[2026-01-27 21:45:48,205:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-27 21:49:16,565:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 21:49:16,573:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 21:49:16,577:INFO:created directory at: artifacts]
+[2026-01-27 21:49:16,579:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-27 21:49:19,134:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-27 21:50:16,341:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 21:50:16,344:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 21:50:16,346:INFO:created directory at: artifacts]
+[2026-01-27 21:50:16,347:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-27 21:50:17,940:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-27 21:52:40,209:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 21:52:40,212:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 21:52:40,215:INFO:created directory at: artifacts]
+[2026-01-27 21:52:40,217:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-27 21:52:42,362:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-27 21:55:43,857:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 21:55:43,861:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 21:55:43,864:INFO:created directory at: artifacts]
+[2026-01-27 21:55:43,865:INFO:created directory at: artifacts\training]
+[2026-01-27 22:13:49,395:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 22:13:49,399:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 22:13:49,402:INFO:created directory at: artifacts]
+[2026-01-27 22:13:49,404:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-27 22:13:52,204:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-27 22:14:16,993:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 22:14:16,998:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 22:14:17,000:INFO:created directory at: artifacts]
+[2026-01-27 22:14:17,003:INFO:created directory at: artifacts\training]
+[2026-01-27 22:22:22,426:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-27 22:22:22,433:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-27 22:22:22,435:INFO:created directory at: artifacts]
+[2026-01-27 22:22:22,438:INFO:created directory at: artifacts\training]
+[2026-01-28 08:58:25,664:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-28 08:58:25,687:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-28 08:58:25,689:INFO:created directory at: artifacts]
+[2026-01-28 08:58:25,691:INFO:created directory at: artifacts\training]
+[2026-01-28 10:55:40,442:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-28 10:55:40,447:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-28 10:55:40,450:INFO:created directory at: artifacts]
+[2026-01-28 10:55:40,453:INFO:created directory at: artifacts\training]
+[2026-01-28 18:36:36,713:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-28 18:36:36,742:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-28 18:36:36,745:INFO:created directory at: artifacts]
+[2026-01-28 19:17:47,294:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-28 19:17:47,298:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-28 19:17:47,300:INFO:created directory at: artifacts]
+[2026-01-28 19:17:47,301:INFO:created directory at: artifacts\training]
+[2026-01-29 00:46:39,268:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 00:46:39,280:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 00:46:39,280:INFO:created directory at: artifacts]
+[2026-01-29 00:47:32,788:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 00:47:32,792:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 00:47:32,795:INFO:created directory at: artifacts]
+[2026-01-29 00:51:53,619:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 00:51:53,625:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 00:51:53,628:INFO:created directory at: artifacts]
+[2026-01-29 01:18:24,675:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 01:18:24,678:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 01:18:24,680:INFO:created directory at: artifacts]
+[2026-01-29 01:18:58,218:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 01:18:58,221:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 01:18:58,223:INFO:created directory at: artifacts]
+[2026-01-29 01:30:41,919:WARNING:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 54). These functions will not be directly callable after loading.]
+[2026-01-29 01:30:44,998:INFO:Assets written to: C:\Users\ADMINI~1\AppData\Local\Temp\tmpes4lmwfs\model\data\model\assets]
+[2026-01-29 12:22:56,778:INFO:Welcome to CNN Classifier]
+[2026-01-29 13:19:26,073:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-29 13:19:26,076:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 13:19:26,079:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 13:19:26,080:INFO:created directory at: artifacts]
+[2026-01-29 13:19:26,081:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 13:19:26,082:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 13:19:37,644:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-29 13:19:37,647:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 13:19:37,649:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 13:19:37,650:INFO:created directory at: artifacts]
+[2026-01-29 13:19:37,650:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 13:19:37,650:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 13:24:47,730:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 13:25:20,386:INFO:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-29 14:11:11,626:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-29 14:11:11,629:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 14:11:11,631:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 14:11:11,631:INFO:created directory at: artifacts]
+[2026-01-29 14:11:11,632:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 14:11:11,633:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 14:16:05,487:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 14:16:51,693:INFO:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-29 14:17:26,854:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-29 14:17:26,855:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 14:17:26,857:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 14:17:26,858:INFO:created directory at: artifacts]
+[2026-01-29 14:17:26,858:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 14:17:26,859:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 14:22:23,317:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 14:22:50,864:INFO:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-29 14:22:50,865:INFO:>>>>>> stage Prepare Base Model started <<<<<<]
+[2026-01-29 14:22:50,869:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 14:22:50,874:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 14:22:50,877:INFO:created directory at: artifacts]
+[2026-01-29 14:22:50,882:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 14:22:50,885:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 14:27:45,707:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 14:28:14,853:INFO:>>>>>> stage Prepare Base Model completed <<<<<<
+
+x==========x]
+[2026-01-29 14:52:46,422:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-29 14:52:46,424:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 14:52:46,425:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 14:52:46,426:INFO:created directory at: artifacts]
+[2026-01-29 14:52:46,427:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 14:52:46,429:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 14:57:39,593:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 14:58:16,963:INFO:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-29 14:58:16,966:INFO:*******************]
+[2026-01-29 14:58:16,967:INFO:>>>>>> stage Prepare Base Model started <<<<<<]
+[2026-01-29 14:58:17,023:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 14:58:17,046:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 14:58:17,098:INFO:created directory at: artifacts]
+[2026-01-29 14:58:17,115:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-29 14:58:17,127:ERROR:name 'PrepareBaseModel' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\main.py", line 22, in <module>
+    prepare_base_model.main()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\pipeline\stage_02_prepare_base_model.py", line 14, in main
+    prepare_base_model = PrepareBaseModel(config=prepare_base_model_config)
+NameError: name 'PrepareBaseModel' is not defined
+[2026-01-29 15:00:09,790:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-29 15:00:09,792:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:00:09,793:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:00:09,794:INFO:created directory at: artifacts]
+[2026-01-29 15:00:09,795:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 15:00:09,799:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 15:05:01,782:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 15:05:59,962:INFO:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-29 15:05:59,963:INFO:*******************]
+[2026-01-29 15:05:59,964:INFO:>>>>>> stage Prepare Base Model started <<<<<<]
+[2026-01-29 15:05:59,967:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:05:59,972:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:05:59,974:INFO:created directory at: artifacts]
+[2026-01-29 15:05:59,975:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-29 15:05:59,975:ERROR:name 'PrepareBaseModel' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\main.py", line 22, in <module>
+    prepare_base_model.main()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\pipeline\stage_02_prepare_base_model.py", line 14, in main
+    prepare_base_model = PrepareBaseModel(config=prepare_base_model_config)
+NameError: name 'PrepareBaseModel' is not defined
+[2026-01-29 15:10:04,632:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-29 15:10:04,635:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:10:04,636:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:10:04,636:INFO:created directory at: artifacts]
+[2026-01-29 15:10:04,636:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 15:10:04,637:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 15:15:40,129:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-29 15:15:40,132:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:15:40,133:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:15:40,134:INFO:created directory at: artifacts]
+[2026-01-29 15:15:40,134:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 15:15:40,136:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 15:21:17,374:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 15:21:56,626:INFO:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-29 15:21:56,650:INFO:*******************]
+[2026-01-29 15:21:56,696:INFO:>>>>>> stage Prepare Base Model started <<<<<<]
+[2026-01-29 15:21:56,780:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:21:56,859:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:21:56,888:INFO:created directory at: artifacts]
+[2026-01-29 15:21:56,895:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-29 15:21:56,899:ERROR:name 'ResNet50' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\main.py", line 22, in <module>
+    prepare_base_model.main()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\pipeline\stage_02_prepare_base_model.py", line 15, in main
+    prepare_base_model.get_base_model()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\components\prepare_base_model.py", line 14, in get_base_model
+    self.model = ResNet50(
+NameError: name 'ResNet50' is not defined
+[2026-01-29 15:26:43,546:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-29 15:26:43,549:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:26:43,550:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:26:43,551:INFO:created directory at: artifacts]
+[2026-01-29 15:26:43,551:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 15:26:43,552:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 15:31:55,661:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 15:32:46,290:INFO:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-29 15:32:46,292:INFO:*******************]
+[2026-01-29 15:32:46,293:INFO:>>>>>> stage Prepare Base Model started <<<<<<]
+[2026-01-29 15:32:46,297:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:32:46,303:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:32:46,312:INFO:created directory at: artifacts]
+[2026-01-29 15:32:46,324:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-29 15:32:50,943:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-29 15:32:53,046:INFO:>>>>>> stage Prepare Base Model completed <<<<<<
+
+x==========x]
+[2026-01-29 15:32:53,046:INFO:*******************]
+[2026-01-29 15:32:53,046:INFO:>>>>>> stage Training started <<<<<<]
+[2026-01-29 15:32:53,049:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:32:53,053:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:32:53,054:INFO:created directory at: artifacts]
+[2026-01-29 15:32:53,055:INFO:created directory at: artifacts\training]
+[2026-01-29 15:32:55,946:ERROR:name 'preprocess_input' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\main.py", line 34, in <module>
+    model_trainer.main()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\pipeline\stage_03_model_training.py", line 16, in main
+    training.train_valid_generator()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\components\model_training.py", line 38, in train_valid_generator
+    preprocessing_function=preprocess_input,
+NameError: name 'preprocess_input' is not defined
+[2026-01-29 15:41:43,338:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-29 15:41:43,342:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:41:43,344:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:41:43,344:INFO:created directory at: artifacts]
+[2026-01-29 15:41:43,346:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 15:41:43,346:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 15:46:57,352:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 15:47:44,011:INFO:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-29 15:47:44,013:INFO:*******************]
+[2026-01-29 15:47:44,013:INFO:>>>>>> stage Prepare Base Model started <<<<<<]
+[2026-01-29 15:47:44,018:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:47:44,021:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:47:44,023:INFO:created directory at: artifacts]
+[2026-01-29 15:47:44,023:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-29 15:47:46,713:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-29 15:47:47,649:INFO:>>>>>> stage Prepare Base Model completed <<<<<<
+
+x==========x]
+[2026-01-29 15:47:47,650:INFO:*******************]
+[2026-01-29 15:47:47,650:INFO:>>>>>> stage Training started <<<<<<]
+[2026-01-29 15:47:47,652:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:47:47,653:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:47:47,654:INFO:created directory at: artifacts]
+[2026-01-29 15:47:47,654:INFO:created directory at: artifacts\training]
+[2026-01-29 15:47:49,814:ERROR:name 'ImageDataGenerator' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\main.py", line 34, in <module>
+    model_trainer.main()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\pipeline\stage_03_model_training.py", line 16, in main
+    training.train_valid_generator()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\components\model_training.py", line 44, in train_valid_generator
+    valid_datagen = ImageDataGenerator(**datagenerator_kwargs)
+NameError: name 'ImageDataGenerator' is not defined
+[2026-01-29 15:53:05,822:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-29 15:53:05,827:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:53:05,830:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:53:05,831:INFO:created directory at: artifacts]
+[2026-01-29 15:53:05,832:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 15:53:05,833:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 15:58:27,048:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 15:59:18,928:INFO:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-29 15:59:18,928:INFO:*******************]
+[2026-01-29 15:59:18,929:INFO:>>>>>> stage Prepare Base Model started <<<<<<]
+[2026-01-29 15:59:18,933:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:59:18,938:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:59:18,940:INFO:created directory at: artifacts]
+[2026-01-29 15:59:18,940:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-29 15:59:21,920:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-29 15:59:23,286:INFO:>>>>>> stage Prepare Base Model completed <<<<<<
+
+x==========x]
+[2026-01-29 15:59:23,286:INFO:*******************]
+[2026-01-29 15:59:23,287:INFO:>>>>>> stage Training started <<<<<<]
+[2026-01-29 15:59:23,293:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 15:59:23,300:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 15:59:23,303:INFO:created directory at: artifacts]
+[2026-01-29 15:59:23,303:INFO:created directory at: artifacts\training]
+[2026-01-29 15:59:29,405:ERROR:name 'compute_class_weight' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\main.py", line 34, in <module>
+    model_trainer.main()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\pipeline\stage_03_model_training.py", line 17, in main
+    training.train()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\components\model_training.py", line 92, in train
+    class_weights = compute_class_weight(
+NameError: name 'compute_class_weight' is not defined
+[2026-01-29 16:07:13,811:INFO:*******************]
+[2026-01-29 16:07:13,811:INFO:>>>>>> stage Training started <<<<<<]
+[2026-01-29 16:07:13,814:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 16:07:13,815:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 16:07:13,815:INFO:created directory at: artifacts]
+[2026-01-29 16:07:13,815:INFO:created directory at: artifacts\training]
+[2026-01-29 16:07:15,742:ERROR:name 'ModelCheckpoint' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\main.py", line 34, in <module>
+    model_trainer.main()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\pipeline\stage_03_model_training.py", line 19, in main
+    training.train()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\components\model_training.py", line 103, in train
+    ModelCheckpoint(
+NameError: name 'ModelCheckpoint' is not defined
+[2026-01-29 16:08:14,890:INFO:*******************]
+[2026-01-29 16:08:14,890:INFO:>>>>>> stage Training started <<<<<<]
+[2026-01-29 16:08:14,892:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 16:08:14,893:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 16:08:14,893:INFO:created directory at: artifacts]
+[2026-01-29 16:08:14,894:INFO:created directory at: artifacts\training]
+[2026-01-29 16:41:24,255:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 16:41:24,259:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 16:41:24,260:INFO:created directory at: artifacts]
+[2026-01-29 16:54:27,113:WARNING:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 54). These functions will not be directly callable after loading.]
+[2026-01-29 16:54:31,553:INFO:Assets written to: C:\Users\ADMINI~1\AppData\Local\Temp\tmpu6t9x55b\model\data\model\assets]
+[2026-01-29 16:57:03,708:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-29 16:57:03,710:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 16:57:03,711:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 16:57:03,713:INFO:created directory at: artifacts]
+[2026-01-29 16:57:03,713:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-29 16:57:03,713:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 17:02:52,297:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-29 17:03:28,182:INFO:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-29 17:03:28,185:INFO:*******************]
+[2026-01-29 17:03:28,187:INFO:>>>>>> stage Prepare Base Model started <<<<<<]
+[2026-01-29 17:03:28,194:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 17:03:28,203:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 17:03:28,206:INFO:created directory at: artifacts]
+[2026-01-29 17:03:28,223:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-29 17:03:30,314:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-29 17:03:31,200:INFO:>>>>>> stage Prepare Base Model completed <<<<<<
+
+x==========x]
+[2026-01-29 17:03:31,200:INFO:*******************]
+[2026-01-29 17:03:31,201:INFO:>>>>>> stage Training started <<<<<<]
+[2026-01-29 17:03:31,202:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-29 17:03:31,204:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-29 17:03:31,204:INFO:created directory at: artifacts]
+[2026-01-29 17:03:31,204:INFO:created directory at: artifacts\training]
+[2026-01-30 00:25:25,692:INFO:>>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2026-01-30 07:49:19,481:INFO:HTTP Request: GET https://dagshub.com/api/v1/repos/Siddhant20020/Kidney-Disease-Classification-DL-Project "HTTP/1.1 200 OK"]
+[2026-01-30 07:49:19,510:INFO:Initialized MLflow to track repo "Siddhant20020/Kidney-Disease-Classification-DL-Project"]
+[2026-01-30 07:49:19,515:INFO:Repository Siddhant20020/Kidney-Disease-Classification-DL-Project initialized!]
+[2026-01-30 07:53:28,135:INFO:HTTP Request: GET https://dagshub.com/api/v1/repos/Siddhant20020/Kidney-Disease-Classification-DL-Project "HTTP/1.1 200 OK"]
+[2026-01-30 07:53:28,144:INFO:Initialized MLflow to track repo "Siddhant20020/Kidney-Disease-Classification-DL-Project"]
+[2026-01-30 07:53:28,151:INFO:Repository Siddhant20020/Kidney-Disease-Classification-DL-Project initialized!]
+[2026-01-30 08:01:10,562:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 08:01:10,580:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 08:01:10,581:INFO:created directory at: artifacts]
+[2026-01-30 08:14:57,307:WARNING:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 54). These functions will not be directly callable after loading.]
+[2026-01-30 08:15:01,494:INFO:Assets written to: C:\Users\ADMINI~1\AppData\Local\Temp\tmp0nftg4b_\model\data\model\assets]
+[2026-01-30 08:28:34,331:INFO:*******************]
+[2026-01-30 08:28:34,331:INFO:>>>>>> stage Evaluation stage started <<<<<<]
+[2026-01-30 08:28:34,333:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 08:28:34,334:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 08:28:34,335:INFO:created directory at: artifacts]
+[2026-01-30 08:42:45,466:ERROR:name 'np' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\main.py", line 48, in <module>
+    model_evalution.main()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\pipeline\stage_04_model_evaluation.py", line 14, in main
+    evaluation.evaluation()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\components\model_evaluation_mlflow.py", line 80, in evaluation
+    y_pred = np.argmax(y_pred_prob, axis=1)
+NameError: name 'np' is not defined
+[2026-01-30 08:43:38,786:INFO:*******************]
+[2026-01-30 08:43:38,786:INFO:>>>>>> stage Evaluation stage started <<<<<<]
+[2026-01-30 08:43:38,789:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 08:43:38,791:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 08:43:38,791:INFO:created directory at: artifacts]
+[2026-01-30 08:58:13,268:INFO:json file saved at: scores.json]
+[2026-01-30 08:58:13,269:INFO:>>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2026-01-30 09:07:51,325:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 09:07:51,332:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 09:07:51,363:INFO:created directory at: artifacts]
+[2026-01-30 09:08:10,349:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 09:08:10,357:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 09:08:10,362:INFO:created directory at: artifacts]
+[2026-01-30 09:27:39,733:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 09:27:39,737:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 09:27:39,739:INFO:created directory at: artifacts]
+[2026-01-30 09:39:01,101:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 09:39:01,105:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 09:39:01,107:INFO:created directory at: artifacts]
+[2026-01-30 10:05:15,754:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 10:05:15,762:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 10:05:15,765:INFO:created directory at: artifacts]
+[2026-01-30 10:29:07,367:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 10:29:07,379:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 10:29:07,381:INFO:created directory at: artifacts]
+[2026-01-30 11:27:48,749:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 11:27:48,756:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 11:27:48,761:INFO:created directory at: artifacts]
+[2026-01-30 11:52:42,557:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 11:52:42,565:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 11:52:42,567:INFO:created directory at: artifacts]
+[2026-01-30 12:25:25,965:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 12:25:25,970:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 12:25:25,972:INFO:created directory at: artifacts]
+[2026-01-30 12:48:58,258:WARNING:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 54). These functions will not be directly callable after loading.]
+[2026-01-30 12:49:17,702:INFO:Assets written to: C:\Users\ADMINI~1\AppData\Local\Temp\tmpabci_6rl\model\data\model\assets]
+[2026-01-30 13:41:22,297:INFO:>>>>>> Stage Data Ingestion stage started <<<<<<]
+[2026-01-30 13:41:22,299:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 13:41:22,299:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 13:41:22,301:INFO:created directory at: artifacts]
+[2026-01-30 13:41:22,301:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-30 13:41:22,302:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-30 13:41:40,599:INFO:>>>>>> Stage Data Ingestion stage started <<<<<<]
+[2026-01-30 13:41:40,601:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 13:41:40,602:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 13:41:40,603:INFO:created directory at: artifacts]
+[2026-01-30 13:41:40,603:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-30 13:41:40,605:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-30 13:54:16,396:INFO:*******************]
+[2026-01-30 13:54:16,396:INFO:>>>>>> stage Evaluation stage started <<<<<<]
+[2026-01-30 13:54:16,399:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 13:54:16,400:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 13:54:16,401:INFO:created directory at: artifacts]
+[2026-01-30 13:54:19,024:ERROR:[WinError 3] The system cannot find the path specified: 'artifacts/data_ingestion/kidney-ct-scan-image/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone']
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\main.py", line 48, in <module>
+    model_evalution.main()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\pipeline\stage_04_model_evaluation.py", line 14, in main
+    evaluation.evaluation()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\components\model_evaluation_mlflow.py", line 69, in evaluation
+    self._valid_generator()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\components\model_evaluation_mlflow.py", line 42, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\venv\lib\site-packages\keras\preprocessing\image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\venv\lib\site-packages\keras\preprocessing\image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'artifacts/data_ingestion/kidney-ct-scan-image/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone'
+[2026-01-30 13:55:57,300:INFO:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-30 13:55:57,320:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 13:55:57,334:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 13:55:57,335:INFO:created directory at: artifacts]
+[2026-01-30 13:55:57,335:INFO:created directory at: artifacts/data_ingestion]
+[2026-01-30 13:55:57,337:INFO:Downloading data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-30 14:08:49,527:INFO:Downloaded data from https://drive.google.com/file/d/1izBMIlkbwn_xj4sFc8ZuQy26Eqgt5bY-/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-01-30 14:09:23,841:INFO:>>>>>> Stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-30 14:13:26,204:INFO:>>>>>> Stage Prepare Base Model started <<<<<<]
+[2026-01-30 14:13:26,209:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 14:13:26,210:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 14:13:26,212:INFO:created directory at: artifacts]
+[2026-01-30 14:13:26,213:INFO:created directory at: artifacts/prepare_base_model]
+[2026-01-30 14:13:28,435:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-01-30 14:13:29,250:INFO:>>>>>> Stage Prepare Base Model completed <<<<<<
+
+x==========x]
+[2026-01-30 14:13:53,157:INFO:>>>>>> Stage Training started <<<<<<]
+[2026-01-30 14:13:53,160:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 14:13:53,161:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 14:13:53,162:INFO:created directory at: artifacts]
+[2026-01-30 14:13:53,164:INFO:created directory at: artifacts\training]
+[2026-01-30 21:28:37,673:INFO:>>>>>> Stage Training completed <<<<<<
+
+x==========x]
+[2026-01-30 21:30:03,907:INFO:*******************]
+[2026-01-30 21:30:03,908:ERROR:name 'STAGE_NAME' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\src\CNN_Classifier\pipeline\stage_04_model_evaluation.py", line 23, in <module>
+    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
+NameError: name 'STAGE_NAME' is not defined
+[2026-01-30 21:40:50,219:INFO:*******************]
+[2026-01-30 21:40:50,220:ERROR:name 'STAGE_NAME' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\src\CNN_Classifier\pipeline\stage_04_model_evaluation.py", line 23, in <module>
+    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
+NameError: name 'STAGE_NAME' is not defined
+[2026-01-30 21:44:10,382:INFO:*******************]
+[2026-01-30 21:44:10,383:ERROR:name 'STAGE_NAME' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\src\CNN_Classifier\pipeline\stage_04_model_evaluation.py", line 23, in <module>
+    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
+NameError: name 'STAGE_NAME' is not defined
+[2026-01-30 21:46:06,916:INFO:*******************]
+[2026-01-30 21:46:06,916:ERROR:name 'STAGE_NAME' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\src\CNN_Classifier\pipeline\stage_04_model_evaluation.py", line 22, in <module>
+    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
+NameError: name 'STAGE_NAME' is not defined
+[2026-01-30 21:47:26,866:INFO:*******************]
+[2026-01-30 21:47:26,867:INFO:>>>>>> stage model_evaluation started <<<<<<]
+[2026-01-30 21:47:26,879:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 21:47:26,881:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 21:47:26,881:INFO:created directory at: artifacts]
+[2026-01-30 21:59:27,461:ERROR:API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '']
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\src\CNN_Classifier\pipeline\stage_04_model_evaluation.py", line 27, in <module>
+    obj.main()
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\src\CNN_Classifier\pipeline\stage_04_model_evaluation.py", line 18, in main
+    evaluation.log_into_mlflow()
+  File "c:\users\administrator\desktop\kidney-disease-classification\src\CNN_Classifier\components\model_evaluation_mlflow.py", line 121, in log_into_mlflow
+    with mlflow.start_run(run_name="ResNet50_4Class_Eval"):
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 350, in start_run
+    active_run_obj = client.create_run(
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 275, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 131, in create_run
+    return self.store.create_run(
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 175, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 56, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 281, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "C:\Users\Administrator\Desktop\Kidney-Disease-Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 213, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2026-01-30 22:07:12,056:INFO:*******************]
+[2026-01-30 22:07:12,057:INFO:>>>>>> stage model_evaluation started <<<<<<]
+[2026-01-30 22:07:12,060:INFO:yaml file: config\config.yaml loaded successfully]
+[2026-01-30 22:07:12,065:INFO:yaml file: params.yaml loaded successfully]
+[2026-01-30 22:07:12,067:INFO:created directory at: artifacts]
+[2026-01-30 22:29:59,528:INFO:json file saved at: scores.json]
+[2026-01-30 22:29:59,530:INFO:>>>>>> stage model_evaluation completed <<<<<<
+
+x==========x]
+[2026-01-30 22:45:00,494:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.65:8080]
+[2026-01-30 22:45:00,494:INFO:[33mPress CTRL+C to quit[0m]
+[2026-01-30 22:45:00,496:INFO: * Restarting with stat]
+[2026-01-30 22:45:08,200:WARNING: * Debugger is active!]
+[2026-01-30 22:45:08,206:INFO: * Debugger PIN: 134-861-042]
+[2026-01-30 22:45:08,717:INFO:127.0.0.1 - - [30/Jan/2026 22:45:08] "GET / HTTP/1.1" 200 -]
+[2026-01-30 22:45:09,547:INFO:127.0.0.1 - - [30/Jan/2026 22:45:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2026-01-30 22:46:37,328:INFO:127.0.0.1 - - [30/Jan/2026 22:46:37] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:47:47,345:INFO:127.0.0.1 - - [30/Jan/2026 22:47:47] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:47:59,959:INFO:127.0.0.1 - - [30/Jan/2026 22:47:59] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:48:01,645:INFO:127.0.0.1 - - [30/Jan/2026 22:48:01] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:48:02,470:INFO:127.0.0.1 - - [30/Jan/2026 22:48:02] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:48:02,794:INFO:127.0.0.1 - - [30/Jan/2026 22:48:02] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:48:03,085:INFO:127.0.0.1 - - [30/Jan/2026 22:48:03] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:48:03,775:INFO:127.0.0.1 - - [30/Jan/2026 22:48:03] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:48:04,590:INFO:127.0.0.1 - - [30/Jan/2026 22:48:04] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:48:04,998:INFO:127.0.0.1 - - [30/Jan/2026 22:48:04] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:48:44,891:INFO:127.0.0.1 - - [30/Jan/2026 22:48:44] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:48:46,828:INFO:127.0.0.1 - - [30/Jan/2026 22:48:46] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:50:18,181:INFO:127.0.0.1 - - [30/Jan/2026 22:50:18] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:50:23,168:INFO:127.0.0.1 - - [30/Jan/2026 22:50:23] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:50:34,800:INFO:127.0.0.1 - - [30/Jan/2026 22:50:34] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:50:36,187:INFO:127.0.0.1 - - [30/Jan/2026 22:50:36] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:50:36,740:INFO:127.0.0.1 - - [30/Jan/2026 22:50:36] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:50:37,156:INFO:127.0.0.1 - - [30/Jan/2026 22:50:37] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:50:37,454:INFO:127.0.0.1 - - [30/Jan/2026 22:50:37] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:51:33,112:INFO:127.0.0.1 - - [30/Jan/2026 22:51:33] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:52:31,024:INFO:127.0.0.1 - - [30/Jan/2026 22:52:31] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:52:35,473:INFO:127.0.0.1 - - [30/Jan/2026 22:52:35] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:52:36,089:INFO:127.0.0.1 - - [30/Jan/2026 22:52:36] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:52:36,541:INFO:127.0.0.1 - - [30/Jan/2026 22:52:36] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:52:56,355:INFO:127.0.0.1 - - [30/Jan/2026 22:52:56] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:52:57,792:INFO:127.0.0.1 - - [30/Jan/2026 22:52:57] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:53:54,313:INFO:127.0.0.1 - - [30/Jan/2026 22:53:54] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:53:58,752:INFO:127.0.0.1 - - [30/Jan/2026 22:53:58] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:54:00,285:INFO:127.0.0.1 - - [30/Jan/2026 22:54:00] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:54:00,732:INFO:127.0.0.1 - - [30/Jan/2026 22:54:00] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:54:01,181:INFO:127.0.0.1 - - [30/Jan/2026 22:54:01] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:54:01,549:INFO:127.0.0.1 - - [30/Jan/2026 22:54:01] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:54:27,011:INFO:127.0.0.1 - - [30/Jan/2026 22:54:27] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:54:32,372:INFO:127.0.0.1 - - [30/Jan/2026 22:54:32] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:54:33,373:INFO:127.0.0.1 - - [30/Jan/2026 22:54:33] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:54:33,667:INFO:127.0.0.1 - - [30/Jan/2026 22:54:33] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:54:33,970:INFO:127.0.0.1 - - [30/Jan/2026 22:54:33] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:55:45,855:INFO:127.0.0.1 - - [30/Jan/2026 22:55:45] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:55:46,778:INFO:127.0.0.1 - - [30/Jan/2026 22:55:46] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:55:47,123:INFO:127.0.0.1 - - [30/Jan/2026 22:55:47] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:55:58,005:INFO:127.0.0.1 - - [30/Jan/2026 22:55:58] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:56:15,584:INFO:127.0.0.1 - - [30/Jan/2026 22:56:15] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:57:04,617:INFO: * Detected change in 'C:\\Users\\Administrator\\Desktop\\Kidney-Disease-Classification\\app.py', reloading]
+[2026-01-30 22:57:05,303:INFO: * Restarting with stat]
+[2026-01-30 22:57:12,821:WARNING: * Debugger is active!]
+[2026-01-30 22:57:12,827:INFO: * Debugger PIN: 134-861-042]
+[2026-01-30 22:58:00,326:INFO:127.0.0.1 - - [30/Jan/2026 22:58:00] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:58:05,721:INFO:127.0.0.1 - - [30/Jan/2026 22:58:05] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:58:23,337:INFO:127.0.0.1 - - [30/Jan/2026 22:58:23] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 22:58:29,346:INFO:127.0.0.1 - - [30/Jan/2026 22:58:29] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:01:13,069:INFO: * Detected change in 'C:\\Users\\Administrator\\Desktop\\Kidney-Disease-Classification\\src\\CNN_Classifier\\pipeline\\prediction.py', reloading]
+[2026-01-30 23:01:13,645:INFO: * Restarting with stat]
+[2026-01-30 23:01:21,672:WARNING: * Debugger is active!]
+[2026-01-30 23:01:21,677:INFO: * Debugger PIN: 134-861-042]
+[2026-01-30 23:01:22,965:INFO:127.0.0.1 - - [30/Jan/2026 23:01:22] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:01:29,686:INFO:127.0.0.1 - - [30/Jan/2026 23:01:29] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:07:20,136:INFO:127.0.0.1 - - [30/Jan/2026 23:07:20] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:08:40,860:INFO: * Detected change in 'C:\\Users\\Administrator\\Desktop\\Kidney-Disease-Classification\\app.py', reloading]
+[2026-01-30 23:08:41,569:INFO: * Restarting with stat]
+[2026-01-30 23:08:49,655:WARNING: * Debugger is active!]
+[2026-01-30 23:08:49,658:INFO: * Debugger PIN: 134-861-042]
+[2026-01-30 23:10:23,426:INFO:127.0.0.1 - - [30/Jan/2026 23:10:23] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:10:24,620:INFO:127.0.0.1 - - [30/Jan/2026 23:10:24] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:11:43,770:INFO:127.0.0.1 - - [30/Jan/2026 23:11:43] "GET / HTTP/1.1" 200 -]
+[2026-01-30 23:11:49,228:INFO:127.0.0.1 - - [30/Jan/2026 23:11:49] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:12:15,368:INFO:127.0.0.1 - - [30/Jan/2026 23:12:15] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:12:22,341:INFO:127.0.0.1 - - [30/Jan/2026 23:12:22] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:12:33,875:INFO:127.0.0.1 - - [30/Jan/2026 23:12:33] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:12:40,866:INFO:127.0.0.1 - - [30/Jan/2026 23:12:40] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:12:51,994:INFO:127.0.0.1 - - [30/Jan/2026 23:12:51] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:13:06,317:INFO:127.0.0.1 - - [30/Jan/2026 23:13:06] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:13:07,601:INFO:127.0.0.1 - - [30/Jan/2026 23:13:07] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:13:12,724:INFO:127.0.0.1 - - [30/Jan/2026 23:13:12] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:13:18,526:INFO:127.0.0.1 - - [30/Jan/2026 23:13:18] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:13:24,517:INFO:127.0.0.1 - - [30/Jan/2026 23:13:24] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:13:31,242:INFO:127.0.0.1 - - [30/Jan/2026 23:13:31] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:13:37,935:INFO:127.0.0.1 - - [30/Jan/2026 23:13:37] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:13:45,153:INFO:127.0.0.1 - - [30/Jan/2026 23:13:45] "GET / HTTP/1.1" 200 -]
+[2026-01-30 23:13:53,843:INFO:127.0.0.1 - - [30/Jan/2026 23:13:53] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:14:04,277:INFO:127.0.0.1 - - [30/Jan/2026 23:14:04] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:14:05,545:INFO:127.0.0.1 - - [30/Jan/2026 23:14:05] "GET / HTTP/1.1" 200 -]
+[2026-01-30 23:14:10,743:INFO:127.0.0.1 - - [30/Jan/2026 23:14:10] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:14:19,017:INFO:127.0.0.1 - - [30/Jan/2026 23:14:19] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:14:28,228:INFO:127.0.0.1 - - [30/Jan/2026 23:14:28] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:14:35,123:INFO:127.0.0.1 - - [30/Jan/2026 23:14:35] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:14:41,807:INFO:127.0.0.1 - - [30/Jan/2026 23:14:41] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:14:50,743:INFO:127.0.0.1 - - [30/Jan/2026 23:14:50] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:15:09,586:INFO:127.0.0.1 - - [30/Jan/2026 23:15:09] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:15:24,723:INFO:127.0.0.1 - - [30/Jan/2026 23:15:24] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:15:34,511:INFO:127.0.0.1 - - [30/Jan/2026 23:15:34] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:15:34,916:INFO:127.0.0.1 - - [30/Jan/2026 23:15:34] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:18:40,935:INFO: * Detected change in 'C:\\Users\\Administrator\\Desktop\\Kidney-Disease-Classification\\app.py', reloading]
+[2026-01-30 23:18:41,634:INFO: * Restarting with stat]
+[2026-01-30 23:18:49,405:WARNING: * Debugger is active!]
+[2026-01-30 23:18:49,410:INFO: * Debugger PIN: 134-861-042]
+[2026-01-30 23:24:39,346:INFO: * Detected change in 'C:\\Users\\Administrator\\Desktop\\Kidney-Disease-Classification\\app.py', reloading]
+[2026-01-30 23:24:40,090:INFO: * Restarting with stat]
+[2026-01-30 23:24:47,928:WARNING: * Debugger is active!]
+[2026-01-30 23:24:47,933:INFO: * Debugger PIN: 134-861-042]
+[2026-01-30 23:25:18,654:INFO: * Detected change in 'C:\\Users\\Administrator\\Desktop\\Kidney-Disease-Classification\\app.py', reloading]
+[2026-01-30 23:25:19,451:INFO: * Restarting with stat]
+[2026-01-30 23:25:25,515:WARNING: * Debugger is active!]
+[2026-01-30 23:25:25,520:INFO: * Debugger PIN: 134-861-042]
+[2026-01-30 23:25:25,816:INFO:127.0.0.1 - - [30/Jan/2026 23:25:25] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2026-01-30 23:25:47,908:INFO:127.0.0.1 - - [30/Jan/2026 23:25:47] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2026-01-30 23:26:03,708:INFO: * Detected change in 'C:\\Users\\Administrator\\Desktop\\Kidney-Disease-Classification\\app.py', reloading]
+[2026-01-30 23:26:04,254:INFO: * Restarting with stat]
+[2026-01-30 23:26:09,718:WARNING: * Debugger is active!]
+[2026-01-30 23:26:09,726:INFO: * Debugger PIN: 134-861-042]
+[2026-01-30 23:26:12,898:INFO:127.0.0.1 - - [30/Jan/2026 23:26:12] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2026-01-30 23:27:29,817:INFO: * Detected change in 'C:\\Users\\Administrator\\Desktop\\Kidney-Disease-Classification\\app.py', reloading]
+[2026-01-30 23:27:30,432:INFO: * Restarting with stat]
+[2026-01-30 23:29:42,708:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.65:8080]
+[2026-01-30 23:29:42,708:INFO:[33mPress CTRL+C to quit[0m]
+[2026-01-30 23:29:42,710:INFO: * Restarting with stat]
+[2026-01-30 23:29:51,347:WARNING: * Debugger is active!]
+[2026-01-30 23:29:51,351:INFO: * Debugger PIN: 134-861-042]
+[2026-01-30 23:29:52,758:INFO:127.0.0.1 - - [30/Jan/2026 23:29:52] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:30:03,722:INFO:127.0.0.1 - - [30/Jan/2026 23:30:03] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:30:16,136:INFO:127.0.0.1 - - [30/Jan/2026 23:30:16] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:30:27,120:INFO:127.0.0.1 - - [30/Jan/2026 23:30:27] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:30:38,821:INFO:127.0.0.1 - - [30/Jan/2026 23:30:38] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:30:47,545:INFO:127.0.0.1 - - [30/Jan/2026 23:30:47] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:30:59,334:INFO:127.0.0.1 - - [30/Jan/2026 23:30:59] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:32:16,172:INFO:127.0.0.1 - - [30/Jan/2026 23:32:16] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:34:11,067:INFO:127.0.0.1 - - [30/Jan/2026 23:34:11] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:34:12,342:INFO:127.0.0.1 - - [30/Jan/2026 23:34:12] "GET / HTTP/1.1" 200 -]
+[2026-01-30 23:34:23,205:INFO:127.0.0.1 - - [30/Jan/2026 23:34:23] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:34:45,123:INFO:127.0.0.1 - - [30/Jan/2026 23:34:45] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:34:52,189:INFO:127.0.0.1 - - [30/Jan/2026 23:34:52] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:37:45,395:INFO:127.0.0.1 - - [30/Jan/2026 23:37:45] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:37:53,944:INFO:127.0.0.1 - - [30/Jan/2026 23:37:53] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:38:00,972:INFO:127.0.0.1 - - [30/Jan/2026 23:38:00] "POST /predict HTTP/1.1" 200 -]
+[2026-01-30 23:38:08,210:INFO:127.0.0.1 - - [30/Jan/2026 23:38:08] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:03:37,670:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.65:8080]
+[2026-01-31 11:03:37,671:INFO:[33mPress CTRL+C to quit[0m]
+[2026-01-31 11:03:37,674:INFO: * Restarting with stat]
+[2026-01-31 11:03:46,314:WARNING: * Debugger is active!]
+[2026-01-31 11:03:46,319:INFO: * Debugger PIN: 134-861-042]
+[2026-01-31 11:03:46,718:INFO:127.0.0.1 - - [31/Jan/2026 11:03:46] "GET / HTTP/1.1" 200 -]
+[2026-01-31 11:03:46,962:INFO:127.0.0.1 - - [31/Jan/2026 11:03:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2026-01-31 11:03:55,044:INFO:127.0.0.1 - - [31/Jan/2026 11:03:55] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:04:04,482:ERROR:192.168.1.65 - - [31/Jan/2026 11:04:04] code 400, message Bad request version ('®ü¿\x08s\x9b')]
+[2026-01-31 11:04:04,483:INFO:192.168.1.65 - - [31/Jan/2026 11:04:04] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03whsO\x0cä¼\x93\x15\x91TçæSØõN\x81\x83$Ýí\x89¨»;¯\x05¡\x93$\x84 ð\x10»J\x1aPëH\x15»&²o8B\x12Í#\x86ùÓ\x9a\x8f\x93«&kª{\x93d\x9c\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063ZZ\x00\x00þ\x0d\x00º\x00\x00\x01\x00\x01D\x00 Ï\x13qhZ\x8f¡i\x98à\x80\x17Í\x8c²nÑÄ\x10\x1d=%µËù}k\x89\x0cw\x8e'\x00\x90¨À\x8c\x10òâÛJß|ê}\x8cM\x87\x07¢\x93\x0cÿD9X\x192Ó\x8b\x8e³.r0v¢\x8e:9\x02°/\x1b\x06BU rô8tK\x8d6¬\x1f½`üâ\x0b\x09äz\x8aEª{Çm6e§súäÝa!ê¡\x9ec@i\x065\x07ö§\x1dÈ\x95 ®ü¿\x08s\x9b[0m" HTTPStatus.BAD_REQUEST -]
+[2026-01-31 11:04:04,487:ERROR:192.168.1.65 - - [31/Jan/2026 11:04:04] code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sjj\x00\x00\x00#\x00\x00\x00')]
+[2026-01-31 11:04:04,487:INFO:192.168.1.65 - - [31/Jan/2026 11:04:04] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03_m;þ\x92®'(0Ó!ÿ«¸f¹;\x85Ó|3cA¾fð(~G\x8a\x9dQ Ö­-¼<6\x89õ'\x8fQ\x15\x167\x04å¹ØÄ¥ÍL\x99÷ï/%Xó»ì/\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sjj\x00\x00\x00#\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -]
+[2026-01-31 11:04:06,175:INFO:192.168.1.65 - - [31/Jan/2026 11:04:06] "GET / HTTP/1.1" 200 -]
+[2026-01-31 11:04:08,832:INFO:192.168.1.65 - - [31/Jan/2026 11:04:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2026-01-31 11:04:13,876:INFO:192.168.1.65 - - [31/Jan/2026 11:04:13] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:07:02,241:INFO:192.168.1.65 - - [31/Jan/2026 11:07:02] "GET / HTTP/1.1" 200 -]
+[2026-01-31 11:07:07,675:INFO:192.168.1.65 - - [31/Jan/2026 11:07:07] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:07:13,821:INFO:192.168.1.65 - - [31/Jan/2026 11:07:13] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:07:15,483:INFO:192.168.1.65 - - [31/Jan/2026 11:07:15] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:07:28,959:INFO:192.168.1.65 - - [31/Jan/2026 11:07:28] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:07:56,937:INFO:192.168.1.65 - - [31/Jan/2026 11:07:56] "GET / HTTP/1.1" 200 -]
+[2026-01-31 11:08:04,272:INFO:192.168.1.65 - - [31/Jan/2026 11:08:04] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:08:11,871:INFO:192.168.1.65 - - [31/Jan/2026 11:08:11] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:08:22,111:INFO:192.168.1.65 - - [31/Jan/2026 11:08:22] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:08:33,892:INFO:192.168.1.65 - - [31/Jan/2026 11:08:33] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:09:36,424:INFO:192.168.1.65 - - [31/Jan/2026 11:09:36] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:09:46,547:INFO:192.168.1.65 - - [31/Jan/2026 11:09:46] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:09:52,293:INFO:192.168.1.65 - - [31/Jan/2026 11:09:52] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:10:00,671:INFO:192.168.1.65 - - [31/Jan/2026 11:10:00] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:10:08,723:INFO:192.168.1.65 - - [31/Jan/2026 11:10:08] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:10:19,733:INFO:192.168.1.65 - - [31/Jan/2026 11:10:19] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:11:17,637:INFO:192.168.1.65 - - [31/Jan/2026 11:11:17] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:11:31,309:INFO:192.168.1.65 - - [31/Jan/2026 11:11:31] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:11:56,198:INFO:192.168.1.65 - - [31/Jan/2026 11:11:56] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:12:13,557:INFO:192.168.1.65 - - [31/Jan/2026 11:12:13] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:12:20,045:INFO:192.168.1.65 - - [31/Jan/2026 11:12:20] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:12:32,072:INFO:192.168.1.65 - - [31/Jan/2026 11:12:32] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:12:45,926:INFO:192.168.1.65 - - [31/Jan/2026 11:12:45] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:12:55,721:INFO:192.168.1.65 - - [31/Jan/2026 11:12:55] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:13:09,241:INFO:192.168.1.65 - - [31/Jan/2026 11:13:09] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:13:22,464:INFO:192.168.1.65 - - [31/Jan/2026 11:13:22] "POST /predict HTTP/1.1" 200 -]
+[2026-01-31 11:13:37,891:INFO:192.168.1.65 - - [31/Jan/2026 11:13:37] "POST /predict HTTP/1.1" 200 -]

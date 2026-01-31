@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Administrator/Desktop/Kidney-Disease-Classification/mlruns/790999886330380060/4ec4363659914034a2ef46733d7afe36/artifacts
+end_time: 1769748217951
+entry_point_name: ''
+experiment_id: '790999886330380060'
+lifecycle_stage: active
+run_id: 4ec4363659914034a2ef46733d7afe36
+run_name: mlflow_test
+run_uuid: 4ec4363659914034a2ef46733d7afe36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769748217804
+status: 3
+tags: []
+user_id: Administrator
